@@ -13,6 +13,8 @@
 - 📫 How to reach me: [kumesha.email@example.com](mailto:kumesha.email@example.com)  
 - 😄 Pronouns: She/Her
 
+  [![trophy](https://github-profile-trophy.vercel.app/?KumeshaRashmi=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 Thank you for visiting my profile! Let’s connect and work together on innovative projects. 🚀
 
 <!---
